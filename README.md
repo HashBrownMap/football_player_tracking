@@ -13,6 +13,8 @@ Annotate soccer game footage with visual overlays showing spatial relationships 
 - **Frame-skip** for faster processing on long videos
 - **Reusable calibration** — save/load homography matrices for repeated runs on the same camera angle
 
+![Example output](screenshots/example.png)
+
 ## Prerequisites
 
 - Python 3.10+
