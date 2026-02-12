@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Games and model weights
+games/
+*.pt
+
+# Calibration files
+*.npy
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+CLAUDE.md
+.claude/
+
+# IDE
+.vscode/
+.idea/
